@@ -1,0 +1,1 @@
+The branch called "new-branch" has been merged and deleted.
